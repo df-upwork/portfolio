@@ -144,7 +144,17 @@
 <tspan class='p12 p1' sodipodi:role='line'>alkaline hydrolysis</tspan>
 <tspan class='p3' sodipodi:role='line'>in Massachusetts</tspan></text>
 ```
-   
+
+#
+Не убирай `sodipodi:role='line'` (`L`).
+Без `L` поломаются межстрочные интервалы.
+В частности, такое наивное решение не работает:
+
+#
+При `L` свойства `font-size` и `line-height` в `.common` имеют приоритет над `y` или `dy` в строках.
+Не забывай об этом.
+Поэтому наивные решения с установкой `y` или `dy` работать не будут.
+
 #
 ## 
 Не пиши никогда «Конечно» и другой подобный мусор в начале ответа.
