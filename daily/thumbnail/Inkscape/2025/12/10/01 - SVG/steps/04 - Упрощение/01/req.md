@@ -1,3 +1,6 @@
+# 1.
+`Sᨀ` ≔
+```svg
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <svg
 	height='800'
@@ -106,13 +109,18 @@
 			>zoning</tspan>,
 		</tspan>
 		<tspan
-			class='common p12 p2'
+			class='common'
 			id='L3'
 			sodipodi:role='line'
-			style='line-height:1.1;text-align:center;text-anchor:middle;stroke-width:0.264583'
+			style='font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.1;text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke-width:0.264583'
 			x='140.18362'
 			y='92'
-		>wastewater discharge</tspan>
+		>
+			<tspan
+				class='common p12 p2'
+				id='L3-1'
+			>wastewater discharge</tspan>
+		</tspan>
 		<tspan
 			class='common p3'
 			id='L4'
@@ -158,3 +166,35 @@
 		/>
 	</g>
 </svg>
+```
+
+# 2.
+`Fᨀ` ≔ (фрагмент `Sᨀ`)
+```svg
+<tspan
+	class='common'
+	id='L3'
+	sodipodi:role='line'
+	style='font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.1;text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke-width:0.264583'
+	x='140.18362'
+	y='92'
+>
+	<tspan
+		class='common p12 p2'
+		id='L3-1'
+	>wastewater discharge</tspan>
+</tspan>
+```
+
+
+# 3. `᛭T`
+Предложи способ упростить `Fᨀ` в контексте `Sᨀ`. 
+
+#
+## 
+Не пиши никогда «Конечно» и другой подобный мусор в начале ответа.
+Мне подобное пиздобольство не нужно.
+
+
+
+
