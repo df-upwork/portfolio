@@ -54,8 +54,6 @@
 				font-family: Carlito;
 				line-height: 1.1;
 				stroke-width: 0.264583;
-			}
-			.l {
 				text-align: center;
 				text-anchor: middle;
 			}
@@ -90,42 +88,42 @@
 		y='44.533066'
 	>
 		<tspan
-			class='l p3'
+			class='p3'
 			id='L1'
 			sodipodi:role='line'
 			x='140.18362'
 			y='44.533066'
 		>Overcoming</tspan>
 		<tspan
-			class='l p12 p2'
+			class='p12 p2'
 			id='L2'
 			sodipodi:role='line'
 			x='140.18362'
 			y='70'
 		>legislative, zoning,</tspan>
 		<tspan
-			class='l p12 p2'
+			class='p12 p2'
 			id='L3'
 			sodipodi:role='line'
 			x='140.18362'
 			y='92'
 		>wastewater discharge</tspan>
 		<tspan
-			class='l p3'
+			class='p3'
 			id='L4'
 			sodipodi:role='line'
 			x='140.18362'
 			y='122'
 		>barriers for</tspan>
 		<tspan
-			class='l p12 p1'
+			class='p12 p1'
 			id='L5'
 			sodipodi:role='line'
 			x="140.18362"
 			y="156"
 		>alkaline hydrolysis</tspan>
 		<tspan
-			class='l p3'
+			class='p3'
 			id='L6'
 			sodipodi:role='line'
 			x='140.18362'
@@ -166,42 +164,42 @@
 	y='44.533066'
 >
 	<tspan
-		class='l p3'
+		class='p3'
 		id='L1'
 		sodipodi:role='line'
 		x='140.18362'
 		y='44.533066'
 	>Overcoming</tspan>
 	<tspan
-		class='l p12 p2'
+		class='p12 p2'
 		id='L2'
 		sodipodi:role='line'
 		x='140.18362'
 		y='70'
 	>legislative, zoning,</tspan>
 	<tspan
-		class='l p12 p2'
+		class='p12 p2'
 		id='L3'
 		sodipodi:role='line'
 		x='140.18362'
 		y='92'
 	>wastewater discharge</tspan>
 	<tspan
-		class='l p3'
+		class='p3'
 		id='L4'
 		sodipodi:role='line'
 		x='140.18362'
 		y='122'
 	>barriers for</tspan>
 	<tspan
-		class='l p12 p1'
+		class='p12 p1'
 		id='L5'
 		sodipodi:role='line'
 		x="140.18362"
 		y="156"
 	>alkaline hydrolysis</tspan>
 	<tspan
-		class='l p3'
+		class='p3'
 		id='L6'
 		sodipodi:role='line'
 		x='140.18362'
@@ -212,7 +210,7 @@
 
 
 # 3. `᛭T`
-Предложи способ упростить `Fᨀ` в контексте `Sᨀ`, чтобы не дублировать класс `l`. 
+Предложи способ упростить `Fᨀ` в контексте `Sᨀ`, чтобы не дублировать `x='140.18362'`. 
 
 #
 ## 
