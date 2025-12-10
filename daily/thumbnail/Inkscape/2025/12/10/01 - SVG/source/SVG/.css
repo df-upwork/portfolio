@@ -4,6 +4,10 @@
 	line-height: 1.1;
 	stroke-width: 0.264583;
 }
+.l {
+	text-align: center;
+	text-anchor: middle;
+}
 .p12 {
 	-inkscape-font-specification:'Carlito Bold';
 	fill: #000000;
