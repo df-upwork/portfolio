@@ -1,3 +1,6 @@
+#
+`Sᨀ` ≔
+```svg
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <svg
 	height='800'
@@ -49,7 +52,6 @@
 			.common {
 				-inkscape-font-specification:Carlito;
 				font-family: Carlito;
-				font-size: 22.5778px;
 				line-height: 1.1;
 				stroke-width: 0.264583;
 				text-align: center;
@@ -81,6 +83,7 @@
 			class='common'
 			id='text'
 			inkscape:label='Text'
+			style='font-size:22.5778px;'
 			transform='translate(140.18362)'
 			x='0'
 			y='44.533066'
@@ -112,3 +115,22 @@
 		/>
 	</g>
 </svg>
+```
+
+#
+Я загрузил 2 файла: 
+- `1.png` (`I1`)
+- `2.png` (`I2`)
+
+Какими будут междустрочные интервалы в `Sᨀ` при просмотре в Inkscape: как на `I1` или как `I2`?
+Свой ответ обоснуй.
+
+
+#
+## 
+Не пиши никогда «Конечно» и другой подобный мусор в начале ответа.
+Мне подобное пиздобольство не нужно.
+
+
+
+

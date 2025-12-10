@@ -49,7 +49,6 @@
 			.common {
 				-inkscape-font-specification:Carlito;
 				font-family: Carlito;
-				line-height: 1.1;
 				stroke-width: 0.264583;
 				text-align: center;
 				text-anchor: middle;
@@ -86,11 +85,11 @@
 			y='44.533066'
 		>
 			<tspan class='p3' id='L1' x='0'>Overcoming</tspan>
-			<tspan class='p12 p2' id='L2' y='70' x='0'>legislative, zoning,</tspan>
-			<tspan class='p12 p2' id='L3' y='92' x='0'>wastewater discharge</tspan>
-			<tspan class='p3' id='L4' y='122' x='0'>barriers for</tspan>
-			<tspan class='p12 p1' id='L5' y='156' x='0'>alkaline hydrolysis</tspan>
-			<tspan class='p3' id='L6' y='186' x='0'>in Massachusetts</tspan>
+			<tspan class='p12 p2' id='L2' x='0' dy='25.46693'>legislative, zoning,</tspan>
+			<tspan class='p12 p2' id='L3' x='0' dy='22'>wastewater discharge</tspan>
+			<tspan class='p3' id='L4' x='0' dy='30'>barriers for</tspan>
+			<tspan class='p12 p1' id='L5' x='0' dy='34'>alkaline hydrolysis</tspan>
+			<tspan class='p3' id='L6' x='0' dy='30'>in Massachusetts</tspan>
 		</text>
 		<rect
 			height='211.66666'

@@ -49,7 +49,6 @@
 			.common {
 				-inkscape-font-specification:Carlito;
 				font-family: Carlito;
-				font-size: 22.5778px;
 				line-height: 1.1;
 				stroke-width: 0.264583;
 				text-align: center;
@@ -81,6 +80,7 @@
 			class='common'
 			id='text'
 			inkscape:label='Text'
+			style='font-size:22.5778px;'
 			transform='translate(140.18362)'
 			x='0'
 			y='44.533066'
