@@ -72,7 +72,6 @@
 	>
 		<text
 			class='common'
-			id='text'
 			inkscape:label='Text'
 			transform='translate(140.18362, 44.533066)'
 		>
@@ -85,7 +84,6 @@
 		</text>
 		<rect
 			height='211.66666'
-			id='rect1'
 			inkscape:label='Left Sidebar'
 			style='fill:#ff6133;fill-opacity:1;'
 			width='10.128444'
@@ -94,7 +92,6 @@
 		/>
 		<rect
 			height='211.66666'
-			id='rect3'
 			inkscape:label='Main Area'
 			style='fill:none;'
 			width='254.45488'
