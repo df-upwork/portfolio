@@ -10,7 +10,7 @@
 	inkscape:export-ydpi='96'
 	inkscape:version='1.4.2 (f4327f4, 2025-05-13)'
 	sodipodi:docname='.svg'
-	version='1.1'
+	version='2'
 	viewBox='0 0 264.58333 211.66667'
 	width='1000'
 	xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape'
@@ -57,6 +57,9 @@
 				text-align: center;
 				text-anchor: middle;
 			}
+			.common tspan {
+				x: 0;
+			}
 			.p12 {
 				-inkscape-font-specification:'Carlito Bold';
 				fill: #000000;
@@ -79,67 +82,61 @@
 		inkscape:groupmode='layer'
 		id='layer1'
 	>
-	<text
-		class='common'
-		id='text1'
-		inkscape:label='Text'
-		style='font-size:22.5778px;'
-		transform='translate(140.18362)'
-		x='0'
-		y='44.533066'
-	>
-		<tspan
-		   class='p3'
-		   id='L1'
-		   sodipodi:role='line'
-		   x='0'
-		   y='44.533066'
-		>Overcoming</tspan>
-		<tspan
-		   class='p12 p2'
-		   id='L2'
-		   sodipodi:role='line'
-		   x='0'
-		   y='70'
-		>legislative, zoning,</tspan>
-		<tspan
-		   class='p12 p2'
-		   id='L3'
-		   sodipodi:role='line'
-		   x='0'
-		   y='92'
-		>wastewater discharge</tspan>
-		<tspan
-		   class='p3'
-		   id='L4'
-		   sodipodi:role='line'
-		   x='0'
-		   y='122'
-		>barriers for</tspan>
-		<tspan
-		   class='p12 p1'
-		   id='L5'
-		   sodipodi:role='line'
-		   x='0'
-		   y='156'
-		>alkaline hydrolysis</tspan>
-		<tspan
-		   class='p3'
-		   id='L6'
-		   sodipodi:role='line'
-		   x='0'
-		   y='186'
-		>in Massachusetts</tspan>
-	</text>
-	<rect
-		height='211.66666'
-		id='rect1'
-		inkscape:label='Left Sidebar'
-		style='fill:#ff6133;fill-opacity:1;'
-		width='10.128444'
-		x='0'
-		y='0'
-	/>
+		<text
+			class='common'
+			id='text1'
+			inkscape:label='Text'
+			style='font-size:22.5778px;'
+			transform='translate(140.18362)'
+			x='0'
+			y='44.533066'
+		>
+			<tspan
+			   class='p3'
+			   id='L1'
+			   sodipodi:role='line'
+			   y='44.533066'
+			>Overcoming</tspan>
+			<tspan
+			   class='p12 p2'
+			   id='L2'
+			   sodipodi:role='line'
+			   y='70'
+			>legislative, zoning,</tspan>
+			<tspan
+			   class='p12 p2'
+			   id='L3'
+			   sodipodi:role='line'
+			   y='92'
+			>wastewater discharge</tspan>
+			<tspan
+			   class='p3'
+			   id='L4'
+			   sodipodi:role='line'
+			   y='122'
+			>barriers for</tspan>
+			<tspan
+			   class='p12 p1'
+			   id='L5'
+			   sodipodi:role='line'
+			   y='156'
+			>alkaline hydrolysis</tspan>
+			<tspan
+			   class='p3'
+			   id='L6'
+			   sodipodi:role='line'
+			   y='186'
+			>in Massachusetts</tspan>
+		</text>
+		<rect
+			height='211.66666'
+			id='rect1'
+			inkscape:label='Left Sidebar'
+			style='fill:#ff6133;fill-opacity:1;'
+			width='10.128444'
+			x='0'
+			y='0'
+		/>
 		<rect
 			height='211.66666'
 			id='rect3'
@@ -169,42 +166,36 @@
 	   class='p3'
 	   id='L1'
 	   sodipodi:role='line'
-	   x='0'
 	   y='44.533066'
 	>Overcoming</tspan>
 	<tspan
 	   class='p12 p2'
 	   id='L2'
 	   sodipodi:role='line'
-	   x='0'
 	   y='70'
 	>legislative, zoning,</tspan>
 	<tspan
 	   class='p12 p2'
 	   id='L3'
 	   sodipodi:role='line'
-	   x='0'
 	   y='92'
 	>wastewater discharge</tspan>
 	<tspan
 	   class='p3'
 	   id='L4'
 	   sodipodi:role='line'
-	   x='0'
 	   y='122'
 	>barriers for</tspan>
 	<tspan
 	   class='p12 p1'
 	   id='L5'
 	   sodipodi:role='line'
-	   x='0'
 	   y='156'
 	>alkaline hydrolysis</tspan>
 	<tspan
 	   class='p3'
 	   id='L6'
 	   sodipodi:role='line'
-	   x='0'
 	   y='186'
 	>in Massachusetts</tspan>
 </text>
@@ -212,7 +203,7 @@
 
 
 # 3. `᛭T`
-Предложи способ упростить `Fᨀ` в контексте `Sᨀ`, чтобы не дублировать `x='0'`. 
+Предложи способ упростить `Fᨀ` в контексте `Sᨀ`, чтобы не дублировать `y='44.533066'`. 
 
 #
 ## 
