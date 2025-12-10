@@ -1,0 +1,12 @@
+| Порядковый номер | Цвет | Обоснование |
+|------------------|------|-------------|
+| 1 | <span style="background-color:#B0C4DE; color:black; font-family:'Carlito';">#B0C4DE</span> | Светло-стальной синий. Ассоциируется с технологиями и сетями, при этом не слишком яркий, что соответствует премиальности и пастельным тонам. |
+| 2 | <span style="background-color:#4682B4; color:black; font-family:'Carlito';">#4682B4</span> | Стальной синий. Более насыщенный, чем первый вариант, но все еще сдержанный. Подходит для темы "Networking" и премиального стиля. |
+| 3 | <span style="background-color:#5F9EA0; color:black; font-family:'Carlito';">#5F9EA0</span> | Кадетский синий. Спокойный и профессиональный цвет, который может ассоциироваться с надежностью и стабильностью в сетевых технологиях. |
+| 4 | <span style="background-color:#F0FFFF; color:black; font-family:'Carlito';">#F0FFFF</span> | Лазурный. Очень светлый голубой, почти белый, что создает ощущение чистоты и свежести, подходящее для темы "Networking". |
+| 5 | <span style="background-color:#708090; color:black; font-family:'Carlito';">#708090</span> | Сланцевый серый. Нейтральный и элегантный, подходит для премиального профиля и не отвлекает внимание от текста. |
+| 6 | <span style="background-color:#778899; color:black; font-family:'Carlito';">#778899</span> | Светло-серый сланец. Похож на предыдущий, но немного светлее, что может добавить воздушности и современности. |
+| 7 | <span style="background-color:#E6E6FA; color:black; font-family:'Carlito';">#E6E6FA</span> | Лавандовый. Очень светлый фиолетовый, который может добавить немного цвета, не нарушая премиальный стиль. |
+| 8 | <span style="background-color:#D3D3D3; color:black; font-family:'Carlito';">#D3D3D3</span> | Светло-серый. Очень светлый и нейтральный, идеален для создания ненавязчивого фона, который не отвлекает от контента. |
+| 9 | <span style="background-color:#F5F5F5; color:black; font-family:'Carlito';">#F5F5F5</span> | Дымчато-белый. Практически белый, но с легким серым оттенком, что придает ему мягкость и элегантность. |
+| 10 | <span style="background-color:#A9A9A9; color:black; font-family:'Carlito';">#A9A9A9</span> | Темно-серый. Классический и универсальный цвет, который хорошо сочетается с черным текстом и подчеркивает профессионализм. |

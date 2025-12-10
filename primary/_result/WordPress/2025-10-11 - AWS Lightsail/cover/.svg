@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="800"
+   viewBox="0 0 264.58333 211.66667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname=".svg"
+   inkscape:export-filename=".png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#dce6ef"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.65121352"
+     inkscape:cx="420.75294"
+     inkscape:cy="466.82077"
+     inkscape:window-width="1920"
+     inkscape:window-height="971"
+     inkscape:window-x="1916"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:export-bgcolor="#dce6efff" />
+  <defs
+     id="defs1">
+    <rect
+       x="471.42756"
+       y="456.07161"
+       width="267.19347"
+       height="139.73911"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:31.75px;line-height:0;font-family:Carlito;-inkscape-font-specification:Carlito;fill:#df3d16;stroke-width:0.264583"
+       x="132.78777"
+       y="47.50914"
+       id="text1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.05;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         sodipodi:role="line"
+         id="tspan15"
+         x="132.78777"
+         y="47.50914">Resolving</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.05;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         sodipodi:role="line"
+         id="tspan16"
+         x="132.78777"
+         y="74.179138">intermittent</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.75px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         x="132.78777"
+         y="106.56414"
+         id="tspan2">downtime</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.75px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         x="132.78777"
+         y="141.48915"
+         id="tspan1"><tspan
+   style="font-size:25.4px"
+   id="tspan7">for</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:'Carlito Bold'"
+   id="tspan9">WordPress</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.75px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         x="132.78777"
+         y="176.41415"
+         id="tspan4"><tspan
+   style="font-size:25.4px"
+   id="tspan10">on</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:'Carlito Bold'"
+   id="tspan5">AWS Lightsail</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#00758f;stroke-width:0.264583"
+       x="129.2011"
+       y="87.759232"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2"
+       style="font-weight:bold;font-size:120px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#00758f" />
+  </g>
+</svg>
