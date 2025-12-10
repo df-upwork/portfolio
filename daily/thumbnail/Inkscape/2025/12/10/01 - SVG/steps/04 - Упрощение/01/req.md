@@ -52,6 +52,12 @@
 			.common {
 				-inkscape-font-specification:Carlito;
 				font-family: Carlito;
+				line-height: 1.1;
+				stroke-width: 0.264583;
+			}
+			.l {
+				text-align: center;
+				text-anchor: middle;
 			}
 			.p12 {
 				-inkscape-font-specification:'Carlito Bold';
@@ -79,69 +85,49 @@
 		class='common'
 		id='text1'
 		inkscape:label='Text'
-		style='font-size:22.5778px;line-height:1.1;fill:#df3d16;stroke-width:0.264583'
+		style='font-size:22.5778px;'
 		x='140.18362'
 		y='44.533066'
 	>
 		<tspan
-			class='common p3'
+			class='l p3'
 			id='L1'
 			sodipodi:role='line'
-			style='line-height:1.1;text-align:center;text-anchor:middle;fill-opacity:1;stroke-width:0.264583'
 			x='140.18362'
 			y='44.533066'
 		>Overcoming</tspan>
 		<tspan
-			class='common'
+			class='l p12 p2'
 			id='L2'
 			sodipodi:role='line'
-			style='font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.1;text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke-width:0.264583'
 			x='140.18362'
 			y='70'
-		>
-			<tspan
-				class='common p12 p2'
-				id='L2-1'
-			>legislative</tspan>,
-			<tspan
-				class='common p12 p2'
-				id='L2-2'
-			>zoning</tspan>,
-		</tspan>
+		>legislative, zoning,</tspan>
 		<tspan
-			class='common'
+			class='l p12 p2'
 			id='L3'
 			sodipodi:role='line'
-			style='font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.1;text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke-width:0.264583'
 			x='140.18362'
 			y='92'
-		>
-			<tspan
-				class='common p12 p2'
-				id='L3-1'
-			>wastewater discharge</tspan>
-		</tspan>
+		>wastewater discharge</tspan>
 		<tspan
-			class='common p3'
+			class='l p3'
 			id='L4'
 			sodipodi:role='line'
-			style='line-height:1.1;text-align:center;text-anchor:middle;fill-opacity:1;stroke-width:0.264583'
 			x='140.18362'
 			y='122'
-		>barriers for </tspan>
+		>barriers for</tspan>
 		<tspan
-			class='common p12 p1'
+			class='l p12 p1'
 			id='L5'
 			sodipodi:role='line'
-			style="line-height:1.1;text-align:center;text-anchor:middle;fill-opacity:1;stroke-width:0.264583"
 			x="140.18362"
 			y="156"
 		>alkaline hydrolysis</tspan>
 		<tspan
-			class='common p3'
+			class='l p3'
 			id='L6'
 			sodipodi:role='line'
-			style='line-height:1.1;text-align:center;text-anchor:middle;fill-opacity:1;stroke-width:0.264583'
 			x='140.18362'
 			y='186'
 		>in Massachusetts</tspan>
@@ -150,7 +136,7 @@
 		height='211.66666'
 		id='rect1'
 		inkscape:label='Left Sidebar'
-		style='fill:#ff6133;fill-opacity:1;stroke-width:0.254233'
+		style='fill:#ff6133;fill-opacity:1;'
 		width='10.128444'
 		x='0'
 		y='0'
@@ -159,7 +145,7 @@
 			height='211.66666'
 			id='rect3'
 			inkscape:label='Main Area'
-			style='fill:none;stroke-width:0.264583'
+			style='fill:none;'
 			width='254.45488'
 			x='10.128444'
 			y='0'
@@ -171,24 +157,62 @@
 # 2.
 `Fᨀ` ≔ (фрагмент `Sᨀ`)
 ```svg
-<tspan
+<text
 	class='common'
-	id='L3'
-	sodipodi:role='line'
-	style='font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.1;text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke-width:0.264583'
+	id='text1'
+	inkscape:label='Text'
+	style='font-size:22.5778px;'
 	x='140.18362'
-	y='92'
+	y='44.533066'
 >
 	<tspan
-		class='common p12 p2'
-		id='L3-1'
+		class='l p3'
+		id='L1'
+		sodipodi:role='line'
+		x='140.18362'
+		y='44.533066'
+	>Overcoming</tspan>
+	<tspan
+		class='l p12 p2'
+		id='L2'
+		sodipodi:role='line'
+		x='140.18362'
+		y='70'
+	>legislative, zoning,</tspan>
+	<tspan
+		class='l p12 p2'
+		id='L3'
+		sodipodi:role='line'
+		x='140.18362'
+		y='92'
 	>wastewater discharge</tspan>
-</tspan>
+	<tspan
+		class='l p3'
+		id='L4'
+		sodipodi:role='line'
+		x='140.18362'
+		y='122'
+	>barriers for</tspan>
+	<tspan
+		class='l p12 p1'
+		id='L5'
+		sodipodi:role='line'
+		x="140.18362"
+		y="156"
+	>alkaline hydrolysis</tspan>
+	<tspan
+		class='l p3'
+		id='L6'
+		sodipodi:role='line'
+		x='140.18362'
+		y='186'
+	>in Massachusetts</tspan>
+</text>
 ```
 
 
 # 3. `᛭T`
-Предложи способ упростить `Fᨀ` в контексте `Sᨀ`. 
+Предложи способ упростить `Fᨀ` в контексте `Sᨀ`, чтобы не дублировать класс `l`. 
 
 #
 ## 
