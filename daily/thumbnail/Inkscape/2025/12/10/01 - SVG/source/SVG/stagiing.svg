@@ -49,7 +49,7 @@
 			.common {
 				-inkscape-font-specification:Carlito;
 				font-family: Carlito;
-				line-height: 0; /* 2025-12-10 https://gemini.google.com/share/20f36c5caa80 */
+				line-height: 1.1;
 				stroke-width: 0.264583;
 				text-align: center;
 				text-anchor: middle;
@@ -79,6 +79,7 @@
 		<text
 			class='common'
 			id='text'
+			inkscape:label='Text'
 			style='font-size:22.5778px;'
 			transform='translate(140.18362)'
 			x='0'
