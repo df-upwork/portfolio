@@ -39,9 +39,6 @@
   />
   <defs id='defs1'>
 		<style>
-			.area {
-				height: 100%;
-			}
 			.common {
 				-inkscape-font-specification:Carlito;
 				font-family: Carlito;
@@ -94,7 +91,7 @@
 			y='0'
 		/>
 		<rect
-			class='area'
+			height='100%'
 			inkscape:label='Main Area'
 			style='fill:none;'
 			width='254.45488'
