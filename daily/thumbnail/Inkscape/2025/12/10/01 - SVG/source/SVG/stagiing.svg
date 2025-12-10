@@ -70,33 +70,27 @@
 		inkscape:groupmode='layer'
 		id='layer1'
 	>
+		<rect
+			id='main'
+			height='100%'
+			inkscape:label='Main Area'
+			style='fill:none;'
+			width='254.45488'
+			x='10.128444'
+			y='0'
+		/>
 		<text
 			class='common'
 			inkscape:label='Text'
-			style='shape-inside: url(#main); white-space: pre-wrap;'
-		>
-			<tspan class='p3' sodipodi:role='line'>Overcoming</tspan>
-			<tspan class='p12 p2' sodipodi:role='line'>legislative, zoning,</tspan>
-			<tspan class='p12 p2' sodipodi:role='line'>wastewater discharge</tspan>
-			<tspan class='p3' sodipodi:role='line'>barriers for</tspan>
-			<tspan class='p12 p1' sodipodi:role='line'>alkaline hydrolysis</tspan>
-			<tspan class='p3' sodipodi:role='line'>in Massachusetts</tspan>
-		</text>
+			style='shape-inside: url(#main); white-space: pre; text-align: center;'
+			xml:space='preserve'
+		><tspan class='p3' sodipodi:role='line'>Overcoming</tspan>&#10;<tspan class='p12 p2' sodipodi:role='line'>legislative, zoning,</tspan>&#10;<tspan class='p12 p2' sodipodi:role='line'>wastewater discharge</tspan>&#10;<tspan class='p3' sodipodi:role='line'>barriers for</tspan>&#10;<tspan class='p12 p1' sodipodi:role='line'>alkaline hydrolysis</tspan>&#10;<tspan class='p3' sodipodi:role='line'>in Massachusetts</tspan></text>
 		<rect
 			height='100%'
 			inkscape:label='Left Sidebar'
 			style='fill:#ff6133;'
 			width='10.128444'
 			x='0'
-			y='0'
-		/>
-		<rect
-			height='100%'
-			id='main'
-			inkscape:label='Main Area'
-			style='fill:none;'
-			width='254.45488'
-			x='10.128444'
 			y='0'
 		/>
 	</g>

@@ -70,6 +70,15 @@
 		inkscape:groupmode='layer'
 		id='layer1'
 	>
+		<rect
+			height='100%'
+			id='main'
+			inkscape:label='Left Sidebar'
+			style='fill:#ff6133;'
+			width='10.128444'
+			x='0'
+			y='0'
+		/>
 		<text
 			class='common'
 			inkscape:label='Text'
@@ -82,14 +91,6 @@
 			<tspan class='p12 p1' sodipodi:role='line'>alkaline hydrolysis</tspan>
 			<tspan class='p3' sodipodi:role='line'>in Massachusetts</tspan>
 		</text>
-		<rect
-			height='100%'
-			inkscape:label='Left Sidebar'
-			style='fill:#ff6133;'
-			width='10.128444'
-			x='0'
-			y='0'
-		/>
 		<rect
 			height='100%'
 			inkscape:label='Main Area'
