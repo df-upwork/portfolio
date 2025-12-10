@@ -144,21 +144,22 @@
 <text
 	class='common'
 	id='text'
+	style='font-size:22.5778px;'
 	transform='translate(140.18362)'
 	x='0'
 	y='44.533066'
 >
-	<tspan class='p3' id='L1'>Overcoming</tspan>
-	<tspan class='p12 p2' id='L2' y='70'>legislative, zoning,</tspan>
-	<tspan class='p12 p2' id='L3' y='92'>wastewater discharge</tspan>
-	<tspan class='p3' id='L4' y='122'>barriers for</tspan>
-	<tspan class='p12 p1' id='L5' y='156'>alkaline hydrolysis</tspan>
-	<tspan class='p3' id='L6' y='186'>in Massachusetts</tspan>
+	<tspan class='p3' id='L1' x='0'>Overcoming</tspan>
+	<tspan class='p12 p2' id='L2' y='70' x='0'>legislative, zoning,</tspan>
+	<tspan class='p12 p2' id='L3' y='92' x='0'>wastewater discharge</tspan>
+	<tspan class='p3' id='L4' y='122' x='0'>barriers for</tspan>
+	<tspan class='p12 p1' id='L5' y='156' x='0'>alkaline hydrolysis</tspan>
+	<tspan class='p3' id='L6' y='186' x='0'>in Massachusetts</tspan>
 </text>
 ```
 
 # 3. `᛭T`
-При замене `Fᨀ` на `F2ᨀ` (с целью упрощения кода) `Sᨀ` перестаёт правильно отображаться в Inkscape.
+При замене `Fᨀ` на `F2ᨀ` (с целью упрощения кода) `Sᨀ` перестаёт правильно отображаться в Inkscape: меняются расстояния между строками текста.
 Почему?
 И как это исправить?
 
