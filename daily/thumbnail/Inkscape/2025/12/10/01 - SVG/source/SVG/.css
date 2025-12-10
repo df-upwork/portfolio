@@ -6,6 +6,9 @@
 	text-align: center;
 	text-anchor: middle;
 }
+.common tspan {
+	x: 0;
+}
 .p12 {
 	-inkscape-font-specification:'Carlito Bold';
 	fill: #000000;
