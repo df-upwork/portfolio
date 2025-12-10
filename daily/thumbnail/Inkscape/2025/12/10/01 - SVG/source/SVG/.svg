@@ -49,6 +49,8 @@
 			.common {
 				-inkscape-font-specification:Carlito;
 				font-family: Carlito;
+				line-height: 1.1;
+				stroke-width: 0.264583;
 			}
 			.p12 {
 				-inkscape-font-specification:'Carlito Bold';
@@ -76,6 +78,7 @@
 		class='common'
 		id='text1'
 		inkscape:label='Text'
+		style='font-size:22.5778px;fill:#df3d16'
 		x='140.18362'
 		y='44.533066'
 	>
@@ -83,7 +86,7 @@
 			class='common p3'
 			id='L1'
 			sodipodi:role='line'
-			style='line-height:1.1;text-align:center;text-anchor:middle;stroke-width:0.264583'
+			style='text-align:center;text-anchor:middle'
 			x='140.18362'
 			y='44.533066'
 		>Overcoming</tspan>
@@ -91,7 +94,7 @@
 			class='common p12 p2'
 			id='L2'
 			sodipodi:role='line'
-			style='line-height:1.1;text-align:center;text-anchor:middle;stroke-width:0.264583'
+			style='text-align:center;text-anchor:middle'
 			x='140.18362'
 			y='70'
 		>legislative, zoning,</tspan>
@@ -99,7 +102,7 @@
 			class='common p12 p2'
 			id='L3'
 			sodipodi:role='line'
-			style='line-height:1.1;text-align:center;text-anchor:middle;stroke-width:0.264583'
+			style='text-align:center;text-anchor:middle'
 			x='140.18362'
 			y='92'
 		>wastewater discharge</tspan>
@@ -107,7 +110,7 @@
 			class='common p3'
 			id='L4'
 			sodipodi:role='line'
-			style='line-height:1.1;text-align:center;text-anchor:middle;stroke-width:0.264583'
+			style='text-align:center;text-anchor:middle'
 			x='140.18362'
 			y='122'
 		>barriers for</tspan>
@@ -115,7 +118,7 @@
 			class='common p12 p1'
 			id='L5'
 			sodipodi:role='line'
-			style="line-height:1.1;text-align:center;text-anchor:middle;stroke-width:0.264583"
+			style="text-align:center;text-anchor:middle"
 			x="140.18362"
 			y="156"
 		>alkaline hydrolysis</tspan>
@@ -123,7 +126,7 @@
 			class='common p3'
 			id='L6'
 			sodipodi:role='line'
-			style='line-height:1.1;text-align:center;text-anchor:middle;stroke-width:0.264583'
+			style='text-align:center;text-anchor:middle'
 			x='140.18362'
 			y='186'
 		>in Massachusetts</tspan>
