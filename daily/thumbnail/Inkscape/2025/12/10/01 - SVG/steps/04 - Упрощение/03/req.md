@@ -42,6 +42,9 @@
   />
   <defs id='defs1'>
 		<style>
+			.area {
+				height: 100%;
+			}
 			.common {
 				-inkscape-font-specification:Carlito;
 				font-family: Carlito;
@@ -94,7 +97,7 @@
 			y='0'
 		/>
 		<rect
-			height='100%'
+			class='area'
 			inkscape:label='Main Area'
 			style='fill:none;'
 			width='254.45488'
@@ -126,18 +129,11 @@
 	x='0'
 	y='0'
 />
-<rect
-	height='100%'
-	inkscape:label='Main Area'
-	style='fill:none;'
-	width='254.45488'
-	x='10.128444'
-	y='0'
-/>
 ```
 
 #
-Как убрать дублирование `height='100%'` из `Fᨀ`?
+Когда я в `Fᨀ` меняю `height='100%'` на `class='area'`, то пропадает заливка красным.
+Почему?
 
 #
 ## 
