@@ -89,22 +89,13 @@
 			y='44.533066'
 		>Overcoming</tspan>
 		<tspan
-			class='common'
+			class='common p12 p2'
 			id='L2'
 			sodipodi:role='line'
-			style='font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.1;text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke-width:0.264583'
+			style='line-height:1.1;text-align:center;text-anchor:middle;stroke-width:0.264583'
 			x='140.18362'
 			y='70'
-		>
-			<tspan
-				class='common p12 p2'
-				id='L2-1'
-			>legislative</tspan>,
-			<tspan
-				class='common p12 p2'
-				id='L2-2'
-			>zoning</tspan>,
-		</tspan>
+		>legislative, zoning,</tspan>
 		<tspan
 			class='common p12 p2'
 			id='L3'
@@ -117,7 +108,7 @@
 			class='common p3'
 			id='L4'
 			sodipodi:role='line'
-			style='line-height:1.1;text-align:center;text-anchor:middle;fill-opacity:1;stroke-width:0.264583'
+			style='line-height:1.1;text-align:center;text-anchor:middle;stroke-width:0.264583'
 			x='140.18362'
 			y='122'
 		>barriers for </tspan>
