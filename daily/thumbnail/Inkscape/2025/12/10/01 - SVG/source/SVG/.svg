@@ -39,6 +39,9 @@
   />
   <defs id='defs1'>
 		<style>
+			.area {
+				height: 100%;
+			}
 			.common {
 				-inkscape-font-specification:Carlito;
 				font-family: Carlito;
@@ -83,7 +86,7 @@
 			<tspan class='p3' sodipodi:role='line'>in Massachusetts</tspan>
 		</text>
 		<rect
-			height='100%'
+			class='area'
 			inkscape:label='Left Sidebar'
 			style='fill:#ff6133;'
 			width='10.128444'
@@ -91,7 +94,7 @@
 			y='0'
 		/>
 		<rect
-			height='100%'
+			class='area'
 			inkscape:label='Main Area'
 			style='fill:none;'
 			width='254.45488'
