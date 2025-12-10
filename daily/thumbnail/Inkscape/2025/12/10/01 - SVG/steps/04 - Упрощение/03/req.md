@@ -86,7 +86,7 @@
 			<tspan class='p3' sodipodi:role='line'>in Massachusetts</tspan>
 		</text>
 		<rect
-			height='211.66666'
+			height='100%'
 			inkscape:label='Left Sidebar'
 			style='fill:#ff6133;'
 			width='10.128444'
@@ -94,7 +94,7 @@
 			y='0'
 		/>
 		<rect
-			height='211.66666'
+			height='100%'
 			inkscape:label='Main Area'
 			style='fill:none;'
 			width='254.45488'
@@ -119,7 +119,7 @@
 `Fᨀ` ≔ (фрагмент `Sᨀ`)
 ```svg
 <rect
-	height='211.66666'
+	height='100%'
 	inkscape:label='Left Sidebar'
 	style='fill:#ff6133;'
 	width='10.128444'
@@ -127,7 +127,7 @@
 	y='0'
 />
 <rect
-	height='211.66666'
+	height='100%'
 	inkscape:label='Main Area'
 	style='fill:none;'
 	width='254.45488'
@@ -137,7 +137,7 @@
 ```
 
 #
-Как убрать из `Fᨀ` `height='211.66666'` и указать вместо этого `100%`?
+Как убрать дублирование `height='100%'` из `Fᨀ`?
 
 #
 ## 
