@@ -11,6 +11,7 @@
 <html lang='en'>
 <head>
 	<meta charset='UTF-8'>
+	<meta name='viewport' content='width=device-width, initial-scale=1'>
 	<style>
 		@font-face {
 			font-family: 'Carlito';
@@ -24,17 +25,20 @@
 			font-weight: 700;
 			src: local('Carlito Bold'), local('Carlito-Bold');
 		}
+		html {
+			height: 100%;
+		}
 		body {
 			background-color: #ffffcc;
 			display: grid;
 			font-family: 'Carlito';
 			grid-template-columns: 38.28px minmax(0, 1fr);
 			grid-template-rows: 1fr;
-			height: 100vh; /* 2025-12-15 https://gemini.google.com/share/d3acbd0441c5 */
+			height: 100%;
 			margin: 0;
 			overflow: hidden;
 			padding: 0;
-			width: 100vw; /* 2025-12-15 https://gemini.google.com/share/d3acbd0441c5 */
+			width: 100%;
 		}
 		#sidebar {
 			background-color: #ff6133;
@@ -152,9 +156,37 @@
 }
 ```
 
+##
+`overflow: visible` для `body`.
+
+##
+```
+<script>
+	window.addEventListener('load', () => {
+		const d = 800 - window.innerHeight;
+		if (d > 0) window.resizeBy(0, d);
+	});
+</script>
+```
+
+##
+```
+<script>
+	(() => {
+		const targetHeight = 800;
+		if (window.innerHeight < targetHeight) {
+			window.resizeBy(0, targetHeight - window.innerHeight);
+		}
+	})();
+</script>
+```
+
 #
 Высота верхней панели интерфейса `Cᨀ` (вкладки + адресная строка) у меня 130 пикселей.
 Вообще, я не думаю, что то связано с `P†`.
+
+#
+Похоже, что это моя `P†`: https://issues.chromium.org/issues/405165895
 
 # 
 Не пиши никогда «Конечно» и другой подобный мусор в начале ответа.
