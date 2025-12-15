@@ -86,8 +86,12 @@
 (
 	p=$(cygpath -m "$(pwd)")
 	o=(
+		--disable-blink-features=AutomationControlled
 		--disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled
+		--disable-infobars
 		--headless=new
+		--hide-scrollbars
+		--high-dpi-support=1		
 		--profile-directory="Default"
 		--screenshot="$p/.png"
 		--window-size=1000,800
@@ -147,6 +151,10 @@
 Добавление `--force-device-scale-factor=1` к  `C๏`.
 
 ##
+`--window-size=1000,891` для  `C๏`.
+В этом случае `P߷` просто увеличивается по высоте, а зазор в точности остаётся.
+
+##
 Изменение вёрстки с `display: grid` на другие типы (например, `display: block` для `body` и `float: left` для `S⧈`).
 
 ##
@@ -158,6 +166,15 @@
 
 ##
 `overflow: visible` для `body`.
+
+##
+```css
+html, body {
+	min-height: 800px !important;
+	height: 800px !important;
+	overflow: visible !important;
+}
+```
 
 ##
 ```
@@ -178,6 +195,20 @@
 			window.resizeBy(0, targetHeight - window.innerHeight);
 		}
 	})();
+</script>
+```
+
+##
+```
+<script>
+	window.onload = function() {
+		const targetHeight = 800;
+		const currentHeight = window.innerHeight;
+		const gap = targetHeight - currentHeight;
+		if (gap > 0) {
+			window.resizeBy(0, gap);
+		}
+	};
 </script>
 ```
 

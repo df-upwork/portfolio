@@ -7,7 +7,8 @@
 		--disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled
 		--disable-infobars
 		--headless=new
-		--hide-scrollbars		
+		--hide-scrollbars
+		--high-dpi-support=1		
 		--profile-directory="Default"
 		--screenshot="$p/.png"
 		--window-size=1000,800
@@ -21,14 +22,15 @@
 (
 	p=$(cygpath -m "$(pwd)")
 	o=(
+		--disable-blink-features=AutomationControlled
 		--disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled
-		--disable-gpu
-		--headless
+		--disable-infobars
+		--headless=new
 		--hide-scrollbars
-		--no-sandbox
+		--high-dpi-support=1		
 		--profile-directory="Default"
 		--screenshot="$p/.png"
-		--window-size=1000,800
+		--window-size=1000,891
 	)
 	chrome "${o[@]}" "file://$p/.html"	
 )
