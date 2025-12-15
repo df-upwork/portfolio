@@ -6,8 +6,8 @@
 		--headless=new
 		--profile-directory="Default"
 		--screenshot
-		--window-size=W,H
+		--window-size=800,600
 	)
-	chrome "${o[@]}" "file://$(cygpath -m "$(pwd)")/файл.html"
+	chrome "${o[@]}" "file://$(cygpath -m "$(pwd)")/1.html"
 )	
 ```
