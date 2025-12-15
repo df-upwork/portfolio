@@ -30,7 +30,7 @@
 		--high-dpi-support=1		
 		--profile-directory="Default"
 		--screenshot="$p/.png"
-		--window-size=1000,891
+		--window-size=1000,800
 	)
 	chrome "${o[@]}" "file://$p/.html"	
 )
