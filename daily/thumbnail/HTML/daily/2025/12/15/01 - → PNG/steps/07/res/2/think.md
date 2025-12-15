@@ -1,0 +1,74 @@
+https://gemini.google.com/share/9a6c9e9f0759
+
+Для решения проблемы необходимо изменить `H⸙`, явно задав использование локального шрифта через `@font-face` и удалив импорт из интернета. Это позволит Headless Chrome корректно подхватить установленный в системе шрифт Carlito.
+
+```html
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+	<meta charset='UTF-8'>
+	<style>
+		@font-face {
+			font-family: 'Carlito';
+			font-style: normal;
+			font-weight: 400;
+			src: local('Carlito'), local('Carlito-Regular');
+		}
+		@font-face {
+			font-family: 'Carlito';
+			font-style: normal;
+			font-weight: 700;
+			src: local('Carlito Bold'), local('Carlito-Bold');
+		}
+		body {
+			background-color: #ffffcc;
+			font-family: 'Carlito';
+			height: 800px;
+			margin: 0;
+			overflow: hidden;
+			padding: 0;
+			width: 1000px;
+		}
+		#sidebar {
+			background-color: #ff6133;
+			height: 100%;
+			left: 0;
+			position: absolute;
+			top: 0;
+			width: 38.28px;
+		}
+		#content {
+			line-height: 1.1;
+			text-align: center;
+			white-space: nowrap;
+		}
+		.p12 {
+			color: #000000;
+			font-weight: 700;
+		}
+		.p1 {
+			font-size: 105.83px;
+		}
+		.p2 {
+			font-size: 75.59px;
+		}
+		.p3 {
+			color: #4d4d4d;
+			font-size: 60.47px;
+			font-weight: 400;
+		}
+	</style>
+</head>
+<body>
+	<div id='sidebar'></div>
+	<div id='content'>
+		<div class='p3'>Overcoming</div>
+		<div class='p12 p2'>legislative, zoning,</div>
+		<div class='p12 p2'>wastewater discharge</div>
+		<div class='p3'>barriers for</div>
+		<div class='p12 p1'>alkaline hydrolysis</div>
+		<div class='p3'>in Massachusetts</div>
+	</div>
+</body>
+</html>
+```
