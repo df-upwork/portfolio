@@ -89,6 +89,7 @@
 		--disable-blink-features=AutomationControlled
 		--disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled
 		--disable-infobars
+		--force-device-scale-factor=1
 		--headless=new
 		--hide-scrollbars
 		--high-dpi-support=1		
@@ -211,6 +212,27 @@ html, body {
 	};
 </script>
 ```
+
+##
+```
+(
+	p=$(cygpath -m "$(pwd)")
+	o=(
+		--app="file://$p/.html"
+		--disable-blink-features=AutomationControlled
+		--disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled
+		--disable-infobars
+		--headless=new
+		--hide-scrollbars
+		--high-dpi-support=1		
+		--profile-directory='Default'
+		--screenshot="$p/.png"
+		--window-size=1000,800
+	)
+	chrome "${o[@]}"	
+)
+```
+`Cᨀ` в этом случае рисует домашнюю страницу.
 
 #
 Высота верхней панели интерфейса `Cᨀ` (вкладки + адресная строка) у меня 130 пикселей.
