@@ -23,19 +23,19 @@
 (
 	p=$(cygpath -m "$(pwd)")
 	o=(
-		--app="data:,"
 		--disable-blink-features=AutomationControlled
 		--disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled
 		--disable-infobars
 		--force-device-scale-factor=1
 		--headless=new
 		--hide-scrollbars
-		--high-dpi-support=1		
+		--high-dpi-support=1	
 		--profile-directory="Default"
+		'--screen-info={0,0 1000x800}'	
 		--screenshot="$p/.png"
 		--window-size=1000,800
 	)
-	chrome "${o[@]}" "file://$p/.html"
+	chrome "${o[@]}" "file://$p/.html"	
 )
 ```
 
