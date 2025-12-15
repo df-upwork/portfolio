@@ -7,7 +7,7 @@
 		--headless=new
 		--profile-directory="Default"
 		--screenshot="$p/.png"
-		--window-size=800,600
+		--window-size=1000,800
 	)
 	chrome "${o[@]}" "file://$p/.html"	
 )
