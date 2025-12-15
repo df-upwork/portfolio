@@ -1,0 +1,27 @@
+.area {
+	height: 100%;
+}
+.common {
+	-inkscape-font-specification:Carlito;
+	font-family: Carlito;
+	font-size: 22.5778px;
+	line-height: 1.1;
+	stroke-width: 0.264583;
+	text-align: center;
+	text-anchor: middle;
+}
+.p12 {
+	-inkscape-font-specification:'Carlito Bold';
+	fill: #000000;
+	font-weight: bold;
+}
+.p1 {
+	font-size: 28px;
+}
+.p2 {
+	font-size: 20px;
+}
+.p3 {
+	fill: #4d4d4d;
+	font-size: 16px;
+}
