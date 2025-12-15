@@ -30,11 +30,11 @@
 			font-family: 'Carlito';
 			grid-template-columns: 38.28px 1fr;
 			grid-template-rows: 1fr;
-			height: 800px;
+			height: 100vh; /* 2025-12-15 https://gemini.google.com/share/d3acbd0441c5 */
 			margin: 0;
 			overflow: hidden;
 			padding: 0;
-			width: 1000px;
+			width: 100vw; /* 2025-12-15 https://gemini.google.com/share/d3acbd0441c5 */
 		}
 		#sidebar {
 			background-color: #ff6133;
@@ -117,7 +117,6 @@
 Сейчас `P߷` отображается не совсем так, как `I߷`.
 В частности:
 - `S⧈` не занимает весь `H⸙` по высоте.
-- текст в `С⧈` сдвинут вниз.
 
 #
 При этом в `C๏` `H⸙` отбражается верно: проблема лишь в `P߷`.
