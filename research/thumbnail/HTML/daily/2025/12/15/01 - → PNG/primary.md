@@ -1,4 +1,7 @@
 #
+https://issues.chromium.org/issues/405165895
+
+#
 ```bash
 (
 	p=$(cygpath -m "$(pwd)")
@@ -31,9 +34,10 @@
 		--hide-scrollbars
 		--high-dpi-support=1	
 		--profile-directory="Default"
-		'--screen-info={0,0 1000x800}'	
+		# 2025-12-16 https://chromium.googlesource.com/chromium/src/+/main/components/headless/screen_info/README.md	
+		--screen-info={1000x800} 
 		--screenshot="$p/.png"
-		--window-size=1000,800
+		--window-size=1000x800
 	)
 	chrome "${o[@]}" "file://$p/.html"	
 )
