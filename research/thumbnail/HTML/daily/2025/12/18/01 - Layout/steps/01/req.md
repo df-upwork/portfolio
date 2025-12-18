@@ -2,7 +2,7 @@
 Сегодня 2025-12-18.
 
 # 
-`Cᨀ` ≔ ⟨ Google Chrome 139 ⟩ 
+`Cᨀ` ≔ ⟨ Google Chrome 139, работающий в среде Windows 10 ⟩ 
 
 # `H⸙`
 `H⸙` ≔
@@ -14,13 +14,10 @@
 	<style>
 		@font-face {
 			font-family: 'Carlito';
-			font-style: normal;
-			font-weight: 400;
 			src: local('Carlito'), local('Carlito-Regular');
 		}
 		@font-face {
 			font-family: 'Carlito';
-			font-style: normal;
 			font-weight: 700;
 			src: local('Carlito Bold'), local('Carlito-Bold');
 		}
@@ -95,21 +92,15 @@
 #
 Единственная цель `H⸙` — применить к нему `C๏` для создания `P߷`. 
 
-#
-`I߷` ≔ ⟨ Загруженный с этим запросом файл `.png` ⟩
-
 # `Fᨀ` 
 `Fᨀ` ≔  ⟪ Фрагмент `H⸙` ⟫
 ```css
 @font-face {
 	font-family: 'Carlito';
-	font-style: normal;
-	font-weight: 400;
 	src: local('Carlito'), local('Carlito-Regular');
 }
 @font-face {
 	font-family: 'Carlito';
-	font-style: normal;
 	font-weight: 700;
 	src: local('Carlito Bold'), local('Carlito-Bold');
 }
